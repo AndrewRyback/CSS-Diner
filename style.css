@@ -1,0 +1,42 @@
+body {
+  background-color: #3b3f45;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  max-height: 793px;
+  width: 507px;
+  position: fixed;
+}
+
+.container-header {
+  position: relative;
+  background-color: #4a4f56;
+  width: 793px;
+  height: 82px;
+  text-align: center;
+}
+
+.header-container {
+  color: #ff8984;
+}
+
+.h1-header {
+  position: relative;
+  text-align: center;
+  font-weight: 700;
+  font-size: 24px;
+  margin-top: 10px;
+  top: 19px;
+}
+
+.p1 {
+  position: relative;
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  top: 4px;
+}
+
+.container-main {
+  text-align: center;
+  background-color: #ffffff;
+}
